@@ -1,0 +1,30 @@
+{
+  "name": "YOUR_NAME_PREFIX_HERE #28",
+  "description": "YOUR_DESCRIPTION_HERE",
+  "file_url": "ipfs://ADD_IPFS_IMAGE_CID_HERE/28.png",
+  "image": "ipfs://ADD_IPFS_IMAGE_CID_HERE/28.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Coin",
+      "value": "Cracked Silver"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "Aster"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": "No"
+    }
+  ],
+  "custom_fields": {
+    "dna": "811209f86239320b77026191cf0c594bb69d3ba5",
+    "edition": 28,
+    "date": 1760562995329,
+    "compiler": "HashLips Art Engine - Modified By ThePeanutGalleryAndCo"
+  }
+}

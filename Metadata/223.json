@@ -1,0 +1,30 @@
+{
+  "name": "YOUR_NAME_PREFIX_HERE #223",
+  "description": "YOUR_DESCRIPTION_HERE",
+  "file_url": "ipfs://ADD_IPFS_IMAGE_CID_HERE/223.png",
+  "image": "ipfs://ADD_IPFS_IMAGE_CID_HERE/223.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Coin",
+      "value": "Cracked Diamond"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "Binancians"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": "Yes"
+    }
+  ],
+  "custom_fields": {
+    "dna": "f254603d1108b8eb3ec9ce3cd6178d5220f37dac",
+    "edition": 223,
+    "date": 1760562974520,
+    "compiler": "HashLips Art Engine - Modified By ThePeanutGalleryAndCo"
+  }
+}

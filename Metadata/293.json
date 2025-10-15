@@ -1,0 +1,30 @@
+{
+  "name": "YOUR_NAME_PREFIX_HERE #293",
+  "description": "YOUR_DESCRIPTION_HERE",
+  "file_url": "ipfs://ADD_IPFS_IMAGE_CID_HERE/293.png",
+  "image": "ipfs://ADD_IPFS_IMAGE_CID_HERE/293.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Coin",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "Pancake Bunny"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": "No"
+    }
+  ],
+  "custom_fields": {
+    "dna": "ed3b4a06531b562fff2c650189f9c806a78fc374",
+    "edition": 293,
+    "date": 1760563018278,
+    "compiler": "HashLips Art Engine - Modified By ThePeanutGalleryAndCo"
+  }
+}

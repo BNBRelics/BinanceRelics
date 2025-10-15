@@ -1,0 +1,30 @@
+{
+  "name": "YOUR_NAME_PREFIX_HERE #464",
+  "description": "YOUR_DESCRIPTION_HERE",
+  "file_url": "ipfs://ADD_IPFS_IMAGE_CID_HERE/464.png",
+  "image": "ipfs://ADD_IPFS_IMAGE_CID_HERE/464.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Coin",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "BNB"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": "No"
+    }
+  ],
+  "custom_fields": {
+    "dna": "69672fd92b360d26f06affa1559aaee3ab4d9ae2",
+    "edition": 464,
+    "date": 1760563016782,
+    "compiler": "HashLips Art Engine - Modified By ThePeanutGalleryAndCo"
+  }
+}

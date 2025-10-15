@@ -1,0 +1,30 @@
+{
+  "name": "YOUR_NAME_PREFIX_HERE #373",
+  "description": "YOUR_DESCRIPTION_HERE",
+  "file_url": "ipfs://ADD_IPFS_IMAGE_CID_HERE/373.png",
+  "image": "ipfs://ADD_IPFS_IMAGE_CID_HERE/373.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Coin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "Binanece Silver"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": "Yes"
+    }
+  ],
+  "custom_fields": {
+    "dna": "932f53eefbde2f0514d6cc2322d98fc5c76125b1",
+    "edition": 373,
+    "date": 1760562982422,
+    "compiler": "HashLips Art Engine - Modified By ThePeanutGalleryAndCo"
+  }
+}

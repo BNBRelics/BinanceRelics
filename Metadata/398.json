@@ -1,0 +1,30 @@
+{
+  "name": "YOUR_NAME_PREFIX_HERE #398",
+  "description": "YOUR_DESCRIPTION_HERE",
+  "file_url": "ipfs://ADD_IPFS_IMAGE_CID_HERE/398.png",
+  "image": "ipfs://ADD_IPFS_IMAGE_CID_HERE/398.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Jungle"
+    },
+    {
+      "trait_type": "Coin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "CZ Hooded"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": "No"
+    }
+  ],
+  "custom_fields": {
+    "dna": "f0e6404e3633c95b3bc7ff02c35a83c9e2663bc1",
+    "edition": 398,
+    "date": 1760563014774,
+    "compiler": "HashLips Art Engine - Modified By ThePeanutGalleryAndCo"
+  }
+}

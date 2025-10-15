@@ -1,0 +1,30 @@
+{
+  "name": "YOUR_NAME_PREFIX_HERE #757",
+  "description": "YOUR_DESCRIPTION_HERE",
+  "file_url": "ipfs://ADD_IPFS_IMAGE_CID_HERE/757.png",
+  "image": "ipfs://ADD_IPFS_IMAGE_CID_HERE/757.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Coin",
+      "value": "Cracked Gold"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "Binanece Silver"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": "No"
+    }
+  ],
+  "custom_fields": {
+    "dna": "179fcbe0ae9d612e1c7e84434c617af2dabac2e6",
+    "edition": 757,
+    "date": 1760562989733,
+    "compiler": "HashLips Art Engine - Modified By ThePeanutGalleryAndCo"
+  }
+}

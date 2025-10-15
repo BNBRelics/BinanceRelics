@@ -1,0 +1,30 @@
+{
+  "name": "YOUR_NAME_PREFIX_HERE #426",
+  "description": "YOUR_DESCRIPTION_HERE",
+  "file_url": "ipfs://ADD_IPFS_IMAGE_CID_HERE/426.png",
+  "image": "ipfs://ADD_IPFS_IMAGE_CID_HERE/426.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Coin",
+      "value": "Cracked Bronze"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "YZILABS"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": "Yes"
+    }
+  ],
+  "custom_fields": {
+    "dna": "d676f760c7ed8ab4a9ce43a0391b75af0ebb3013",
+    "edition": 426,
+    "date": 1760562968435,
+    "compiler": "HashLips Art Engine - Modified By ThePeanutGalleryAndCo"
+  }
+}

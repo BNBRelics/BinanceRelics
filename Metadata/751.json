@@ -1,0 +1,30 @@
+{
+  "name": "YOUR_NAME_PREFIX_HERE #751",
+  "description": "YOUR_DESCRIPTION_HERE",
+  "file_url": "ipfs://ADD_IPFS_IMAGE_CID_HERE/751.png",
+  "image": "ipfs://ADD_IPFS_IMAGE_CID_HERE/751.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Coin",
+      "value": "Bronze"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "Binancians"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": "Yes"
+    }
+  ],
+  "custom_fields": {
+    "dna": "906f2fd19d9d2e959437ce0c39d92ce5367cdafb",
+    "edition": 751,
+    "date": 1760562993194,
+    "compiler": "HashLips Art Engine - Modified By ThePeanutGalleryAndCo"
+  }
+}

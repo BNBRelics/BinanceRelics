@@ -1,0 +1,30 @@
+{
+  "name": "YOUR_NAME_PREFIX_HERE #364",
+  "description": "YOUR_DESCRIPTION_HERE",
+  "file_url": "ipfs://ADD_IPFS_IMAGE_CID_HERE/364.png",
+  "image": "ipfs://ADD_IPFS_IMAGE_CID_HERE/364.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Coin",
+      "value": "Cracked Bronze"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "CZ Hooded"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": "Yes"
+    }
+  ],
+  "custom_fields": {
+    "dna": "41781d4357a674c2e64a3e673ec5858c3fa93a4b",
+    "edition": 364,
+    "date": 1760562968665,
+    "compiler": "HashLips Art Engine - Modified By ThePeanutGalleryAndCo"
+  }
+}

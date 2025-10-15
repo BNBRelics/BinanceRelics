@@ -1,0 +1,30 @@
+{
+  "name": "YOUR_NAME_PREFIX_HERE #378",
+  "description": "YOUR_DESCRIPTION_HERE",
+  "file_url": "ipfs://ADD_IPFS_IMAGE_CID_HERE/378.png",
+  "image": "ipfs://ADD_IPFS_IMAGE_CID_HERE/378.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Jungle"
+    },
+    {
+      "trait_type": "Coin",
+      "value": "Bronze"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "BNB"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": "Yes"
+    }
+  ],
+  "custom_fields": {
+    "dna": "1177e17f4816ad4ba28b4e339c6e73dd0aaff42e",
+    "edition": 378,
+    "date": 1760563011997,
+    "compiler": "HashLips Art Engine - Modified By ThePeanutGalleryAndCo"
+  }
+}

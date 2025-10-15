@@ -1,0 +1,30 @@
+{
+  "name": "YOUR_NAME_PREFIX_HERE #177",
+  "description": "YOUR_DESCRIPTION_HERE",
+  "file_url": "ipfs://ADD_IPFS_IMAGE_CID_HERE/177.png",
+  "image": "ipfs://ADD_IPFS_IMAGE_CID_HERE/177.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Jungle"
+    },
+    {
+      "trait_type": "Coin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "Binancians"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": "No"
+    }
+  ],
+  "custom_fields": {
+    "dna": "5b63f8ab48192e214141cc67b0f87707c352a896",
+    "edition": 177,
+    "date": 1760562980601,
+    "compiler": "HashLips Art Engine - Modified By ThePeanutGalleryAndCo"
+  }
+}

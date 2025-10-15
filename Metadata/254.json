@@ -1,0 +1,30 @@
+{
+  "name": "YOUR_NAME_PREFIX_HERE #254",
+  "description": "YOUR_DESCRIPTION_HERE",
+  "file_url": "ipfs://ADD_IPFS_IMAGE_CID_HERE/254.png",
+  "image": "ipfs://ADD_IPFS_IMAGE_CID_HERE/254.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Coin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "Aster"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": "Yes"
+    }
+  ],
+  "custom_fields": {
+    "dna": "9bf612ec0155ae42eb705f26008bca5aded47f6d",
+    "edition": 254,
+    "date": 1760562982197,
+    "compiler": "HashLips Art Engine - Modified By ThePeanutGalleryAndCo"
+  }
+}

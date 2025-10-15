@@ -1,0 +1,30 @@
+{
+  "name": "YOUR_NAME_PREFIX_HERE #153",
+  "description": "YOUR_DESCRIPTION_HERE",
+  "file_url": "ipfs://ADD_IPFS_IMAGE_CID_HERE/153.png",
+  "image": "ipfs://ADD_IPFS_IMAGE_CID_HERE/153.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocks"
+    },
+    {
+      "trait_type": "Coin",
+      "value": "Cracked Gold"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "Four"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": "Yes"
+    }
+  ],
+  "custom_fields": {
+    "dna": "d7e751f73672e6bd22c4ccd1a1be17d3121c2d6b",
+    "edition": 153,
+    "date": 1760562979303,
+    "compiler": "HashLips Art Engine - Modified By ThePeanutGalleryAndCo"
+  }
+}

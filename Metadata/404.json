@@ -1,0 +1,30 @@
+{
+  "name": "YOUR_NAME_PREFIX_HERE #404",
+  "description": "YOUR_DESCRIPTION_HERE",
+  "file_url": "ipfs://ADD_IPFS_IMAGE_CID_HERE/404.png",
+  "image": "ipfs://ADD_IPFS_IMAGE_CID_HERE/404.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rocks"
+    },
+    {
+      "trait_type": "Coin",
+      "value": "Bronze"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "YZILABS"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": "Yes"
+    }
+  ],
+  "custom_fields": {
+    "dna": "f4ae6ebf3762e8f9052baf60c1cc07b573a6e8c0",
+    "edition": 404,
+    "date": 1760563018358,
+    "compiler": "HashLips Art Engine - Modified By ThePeanutGalleryAndCo"
+  }
+}

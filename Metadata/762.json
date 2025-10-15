@@ -1,0 +1,30 @@
+{
+  "name": "YOUR_NAME_PREFIX_HERE #762",
+  "description": "YOUR_DESCRIPTION_HERE",
+  "file_url": "ipfs://ADD_IPFS_IMAGE_CID_HERE/762.png",
+  "image": "ipfs://ADD_IPFS_IMAGE_CID_HERE/762.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Coin",
+      "value": "Cracked Gold"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "Pancake Bunny"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": "Yes"
+    }
+  ],
+  "custom_fields": {
+    "dna": "2937f5e2b8eba82479a2b51dd1a1965a8ac44503",
+    "edition": 762,
+    "date": 1760563008446,
+    "compiler": "HashLips Art Engine - Modified By ThePeanutGalleryAndCo"
+  }
+}
